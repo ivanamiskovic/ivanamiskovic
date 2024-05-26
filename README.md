@@ -9,4 +9,4 @@ About me
 👨‍💻 Constantly strive to strengthen and refine professional effectiveness Tools & Technology
 
 
-C VSCode Git GitHub Windows SQLite Embedded FreeRTOS
+  C  VSCode  Git  GitHub  Windows  SQLite  Embedded FreeRTOS
