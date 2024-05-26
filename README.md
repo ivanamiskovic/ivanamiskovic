@@ -10,4 +10,4 @@ ________________________________________________________________________________
 👨‍💻 Constantly strive to strengthen and refine professional effectiveness Tools & Technology
 
 
-  C  C#  VSCode  Git  GitHub  Windows  SQLite  Embedded FreeRTOS
+  C    C#    VSCode    Git    GitHub    Windows    SQLite    Embedded   FreeRTOS
