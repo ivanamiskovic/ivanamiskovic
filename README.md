@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 🚀 Passionate about microcontrollers, operating systems and embedded software. 
 
-👨‍💻 Constantly strive to strengthen and refine professional effectiveness Tools & Technology
+👨‍💻 Constantly strive to strengthen and refine professional effectiveness 
 
 
   C    C#    VSCode    Git    GitHub    Windows    SQLite    Embedded   FreeRTOS
